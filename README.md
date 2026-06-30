@@ -1,16 +1,22 @@
-## Hi there 👋
+### GitHub Stats
 
-<!--
-**Nathan-Rugo/Nathan-Rugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EthanBwibo&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=FFD700&icon_color=FFA500&text_color=FFD700&bg_color=00000000" alt="Ethan's GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanBwibo&layout=compact&theme=transparent&hide_border=true&langs_count=6&title_color=FFD700&text_color=FFD700&bg_color=00000000" alt="Top Languages"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=EthanBwibo&theme=transparent&hide_border=true&stroke=FFD700&ring=FFA500&fire=FFA500&currStreakLabel=FFD700&dates=FFA500&sideLabels=FFD700&currStreakNum=FFD700&sideNums=FFD700" alt="GitHub Streak"/>
+&nbsp;&nbsp;
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EthanBwibo&bg_color=00000000&color=FFD700&line=FFA500&point=FFD700&area=true&area_color=FFA500&hide_border=true" alt="Contribution Graph"/>
+
+</div>
