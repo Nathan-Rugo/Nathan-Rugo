@@ -5,7 +5,7 @@
 
 ---
 
-### Backgorund
+### Background
 
 * **Education** — B.Sc. in Informatics and Computer Science, Strathmore University (Class of 2027)
 * **Training** — Data Structures, Algorithms, and Agile Product Development (A2SV Alumni)
